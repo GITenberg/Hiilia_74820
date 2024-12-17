@@ -1,0 +1,25 @@
+_repo: Hiilia_74820
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Päiviö, Aku
+    gutenberg_agent_id: '57667'
+    url: http://www.gutenberg.org/2009/agents/57667
+description: ''
+gutenberg_issued: '2024-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74820'
+language: fi
+pgterms:marc905: 20241102010525pivi
+pgterms:marc906: '1914'
+pgterms:marc907: CA
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aPort Arthur, Ont. :$bTyökansan Kustannusyhtiö, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Hiiliä
+url: http://www.gutenberg.org/ebooks/74820
