@@ -1,11 +1,16 @@
 _repo: Hiilia_74820
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Päiviö, Aku
     gutenberg_agent_id: '57667'
     url: http://www.gutenberg.org/2009/agents/57667
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74820#Hiilia
 gutenberg_issued: '2024-11-30'
 gutenberg_type: Text
 identifiers:
